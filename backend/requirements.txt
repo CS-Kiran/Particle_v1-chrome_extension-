@@ -1,0 +1,6 @@
+Flask==2.0.2
+flask-cors==3.1.1
+requests==2.26.0
+beautifulsoup4==4.10.0
+transformers==4.13.0
+tensorflow>=2.0
