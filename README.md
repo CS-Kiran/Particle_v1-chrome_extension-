@@ -4,3 +4,4 @@ Particle is a browser extension designed to summarize web pages quickly and effi
 
 https://github.com/CS-Kiran/Particle_v2/assets/109469540/0b161128-032c-4679-87bf-56e507848f92
 
+
