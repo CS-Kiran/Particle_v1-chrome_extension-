@@ -1,6 +1,10 @@
 # Particle_v2
 
-Particle is a browser extension designed to summarize web pages quickly and efficiently. With advanced natural language processing, it condenses lengthy content into concise summaries at the click of a button. Features include customization options, seamless integration, and enhanced productivity.
+Particle_v2 is a powerful browser extension engineered to swiftly summarize web pages with precision. Leveraging advanced natural language processing capabilities, it efficiently condenses verbose content into succinct summaries, empowering users to digest information effortlessly. Notable features include customizable options, seamless integration, and heightened productivity.
 
+<p align="center">
+  <img src="frontend/src/assets/ParticalDemoGIF.gif" alt="Particle Demo GIF">
+</p>
 
-![ParticalDemoGIF](https://github.com/CS-Kiran/Particle_v2/assets/109469540/ea1e3dba-5a95-4bf4-9b2e-c0f88dcf48f3)
+### Note:
+Summarization processes may require additional time for completion.
