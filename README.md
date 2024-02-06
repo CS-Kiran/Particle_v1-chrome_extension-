@@ -1,4 +1,4 @@
-# Particle_v2
+# Particle Chrome Extension
 
 Particle_v2 is a powerful browser extension engineered to swiftly summarize web pages with precision. Leveraging advanced natural language processing capabilities, it efficiently condenses verbose content into succinct summaries, empowering users to digest information effortlessly. Notable features include customizable options, seamless integration, and heightened productivity.
 
